@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4376b2d2175c3af4da71f28a2e99384a, type: 3}
+  m_Name: Character2
+  m_EditorClassIdentifier: 
+  gender: 0
+  _head:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _body:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _hand:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _legs:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _feet:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _brow:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _eyes:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _beard:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _hair:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _mouth:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _bracerRight:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _bracerLeft:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _hat:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _headBand:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _helmet:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _neclaces:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _pauldronRight:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _pauldronLeft:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _poleynRight:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
+  _poleynLeft:
+    Mesh: {fileID: 0}
+    Material: {fileID: 0}
